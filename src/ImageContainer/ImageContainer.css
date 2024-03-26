@@ -1,0 +1,33 @@
+.container {
+    margin-left: 240px;
+    margin-top: 50px;
+    height: 100%;
+    padding: 10px;
+}
+
+.image {
+    max-height: 200px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.pagination-container {
+    /* display: flex;
+    justify-content: center; */
+    margin: 10px 0;
+  }
+  
+  .pagination-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin: 2px 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .pagination-button:hover {
+    background-color: #0056b3;
+  }
